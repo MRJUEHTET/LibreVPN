@@ -1,2 +1,0 @@
-# LibreVPN
-LibreVPN
