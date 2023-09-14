@@ -54,11 +54,28 @@
          "name": "Singapore.F2",
          "url": "https://raw.githubusercontent.com/MRJUEHTET/LibreVPN/main/Singapore.F2.ovpn"
     
-      }
+      },
+
+
+
+{
+         "name": "Thailand.Core",
+         "url": "https://raw.githubusercontent.com/MRJUEHTET/LibreVPN/main/Thailand.Core.ovpn"
+     
+
+      },
+      
+
+{      
+         "name": "Thailand.Geek",
+         "url": "https://raw.githubusercontent.com/MRJUEHTET/LibreVPN/main/Thailand.Geek.ovpn"
+    
+     }      
+      
 
       
 ],
-"message":"14 September 2023\n\n•Version:1n\n\•Facebook : Jue Htet",
+"message":"14 September 2023\n\n•Version:2\n\•Facebook : Jue Htet",
    "title":"✅ VIP SERVER✅" ,
-    "version": 1
+    "version": 2
 }
