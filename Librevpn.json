@@ -57,6 +57,13 @@
       },
 
 
+ {      
+         "name": "Singapore.Geek",
+         "url": "https://raw.githubusercontent.com/MRJUEHTET/LibreVPN/main/Singapore.Geek.ovpn"
+    
+      },     
+
+
 
 {
          "name": "Thailand.Core",
@@ -75,7 +82,7 @@
 
       
 ],
-"message":"14 September 2023\n\n•Version:2\n\•Facebook : Jue Htet",
+"message":"16 September 2023\n\n•Version:3\n\•Facebook : Jue Htet",
    "title":"✅ VIP SERVER✅" ,
-    "version": 2
+    "version": 3
 }
